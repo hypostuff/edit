@@ -265,6 +265,8 @@
 * [RadioPuppy](https://www.radiopuppy.com/) - Radio Directory
 * [myTuner](https://mytuner-radio.com/) - Global Radio & Podcasts / Multi-Platform
 * [TuneYou](https://tuneyou.com/) - Radio Directory / Discovery Focus
+* [webSDR](http://websdr.org/) - Shortwave Reciver
+* [KiwiSDR](http://kiwisdr.com/.public/) - Shortwave Reciver
 * [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp) - Radio Directory / Hardware Integration
 * [radioline](https://www.radioline.co/) - Radio & Podcast Aggregator
 * [TheOneStopRadio](https://theonestopradio.com/) - Radio Directory
